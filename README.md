@@ -1,1 +1,1 @@
-Module 1 from the course I created for Alura courses.
+Projeto simples simulando uma negociação, no qual aplico conceitos de classe, métodos, modificadores de acesso, encapsulamento.
